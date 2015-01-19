@@ -19,7 +19,7 @@ Add the package to your composer.json:
 
 ```json
 "require": {
-    "chromabits/laravel-vertex": "~0.1.0"
+    "chromabits/laravel-vertex": "0.1.x"
 }
 ```
 

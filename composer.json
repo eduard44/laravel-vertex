@@ -1,0 +1,15 @@
+{
+    "name": "chromabits/laravel-vertex",
+    "description": "Laravel helpers for interacting with Docker containers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Trujillo",
+            "email": "ed@chromabits.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/framework": "~5.0"
+    }
+}

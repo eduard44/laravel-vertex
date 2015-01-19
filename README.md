@@ -11,6 +11,8 @@ The default docker image used is `eduard44/vertex` (hence the package name). It 
 - Docker (Boot2docker if on OSX)
 - Composer and PHP
 
+This utility expects `docker` to be a command that can be launched without sudo permissions or any special configuration
+
 ## Usage
 
 Add the package to your composer.json:
